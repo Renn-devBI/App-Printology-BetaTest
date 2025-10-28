@@ -1,6 +1,6 @@
 # Printology Android App
 
-Aplikasi Android untuk Printology yang **BENAR-BENAR MIRIP** dengan website menggunakan Kotlin dan Jetpack Compose. UI/UX identik dengan website, termasuk Gemini AI, EmailJS, dan real-time notifications.
+Aplikasi Android untuk Printology https://www.printology.my.id/
 
 ## Fitur
 
