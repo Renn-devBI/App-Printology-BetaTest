@@ -9,7 +9,7 @@
 
 Aplikasi Android modern untuk **Printology** - solusi percetakan digital terdepan
 
-[📱 Features](#features) • [🚀 Quick Start](#quick-start) • [🏗️ Architecture](#architecture) • [🔧 Setup](#setup) • [📸 Screenshots](#screenshots)
+[📱 Features](#features) • [🚀 Quick Start](#quick-start) • [🏗️ Architecture](#architecture) • [🔧 Setup](#setup)
 
 </div>
 
