@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Printology</string>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_services">Layanan</string>
+    <string name="navigation_promo">Promo</string>
+    <string name="navigation_about">Tentang</string>
+    <string name="navigation_contact">Kontak</string>
+    <string name="navigation_ai">AI</string>
+    <string name="go_print_go_fast">Go Print, Go Fast!</string>
+    <string name="welcome_message">Selamat datang di Printology! Siap membantu kebutuhan cetak Anda dengan kualitas terbaik.</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- EmailJS Configuration -->
+    <string name="emailjs_service_id" translatable="false">YOUR_KEY</string>
+    <string name="emailjs_public_key" translatable="false">YOUR_KEY</string>
+    <string name="emailjs_admin_template_id" translatable="false">YOUR_KEYa</string>
+    <string name="emailjs_customer_template_id" translatable="false">YOUR_KEY/string>
+    <string name="emailjs_business_email" translatable="false">YOUR_EMAIL</string>
+
+    <!-- Firebase Configuration -->
+    <string name="firebase_api_key" translatable="false"YOUR_KEY</string>
+    <string name="firebase_auth_domain" translatable="false">YOUR_KEY/string>
+    <string name="firebase_database_url" translatable="false">YOUR_KEY</string>
+    <string name="firebase_project_id" translatable="false">YOUR_KEY</string>
+    <string name="firebase_storage_bucket" translatable="false">YOUR_KEY</string>
+    <string name="firebase_messaging_sender_id" translatable="false">YOUR_KEY</string>
+    <string name="firebase_app_id" translatable="false">YOUR_KEY</string>
+    <string name="firebase_measurement_id" translatable="false">YOUR_KEY</string>
+
+    <!-- Firebase Admin SDK Configuration -->
+    <string name="firebase_private_key_id" translatable="false">YOUR_KEY</string>
+    <string name="firebase_private_key" translatable="false">YOUR_KEY</string>
+    <string name="firebase_client_email" translatable="false">YOUR_KEY</string>
+    <string name="firebase_client_id" translatable="false">YOUR_KEY</string>
+    <string name="firebase_client_cert_url" translatable="false">YOUR_KEY</string>
+
+    <!-- FCM VAPID Key -->
+    <string name="fcm_vapid_key" translatable="false">YOUR_KEY</string>
+
+    <!-- Notifikasi Server URL -->
+    <string name="notif_server_url" translatable="false">YOUR_FIREBASE</string>
+
+    <!-- Google AI API Key -->
+    <string name="google_ai_api_key" translatable="false">YOUR_KEY</string>
+</resources>
